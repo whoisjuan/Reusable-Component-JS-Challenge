@@ -1,3 +1,5 @@
+/*Code Written by Jason Mussitsch: jmussits@cs.cmu.edu */
+
 /*
  *  Create the Tester object to help in testing the data grid
  */
@@ -135,3 +137,5 @@
 	}
 	
 })(window);
+
+/*Code Written by Jason Mussitsch: jmussits@cs.cmu.edu */
